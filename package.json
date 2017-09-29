@@ -1,0 +1,18 @@
+{
+  "name": "domainName",
+  "version": "1.0.0",
+  "description": "Get domain names by counrty",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "Hosein2398 <hosein2398@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hosein2398/domainName"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
