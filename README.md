@@ -1,4 +1,4 @@
-# Capitals  [![Build Status](https://travis-ci.org/hosein2398/domainName.svg?branch=master)](https://travis-ci.org/hosein2398/domainName)
+# domainName  [![Build Status](https://travis-ci.org/hosein2398/domainName.svg?branch=master)](https://travis-ci.org/hosein2398/domainName)
 Get countries' domain names and reverse.
 
 ## Installation
