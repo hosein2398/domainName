@@ -30,5 +30,5 @@ Description : returns a domain name.
 Returns : `string`  
 
 **isDomainOf** (parameter : `string`)  
-Description : return name of a country.  
+Description : returns name of a country.  
 Returns `string`  
