@@ -1,5 +1,5 @@
 {
-  "name": "domainName",
+  "name": "domainname",
   "version": "1.0.0",
   "description": "Get domain names by counrty",
   "main": "index.js",

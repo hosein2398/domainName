@@ -3,13 +3,13 @@ Get countries' domain names and reverse.
 
 ## Installation
 ```
-npm i --save domainName
+npm i --save domainname
 ```
 
 ## Usage 
 Get name of a country by it's domain name :
 ```JS
-var domains = require('domainName');
+var domains = require('domainname');
 
 var test = domains.isDomainOf('.ca');
 console.log(test); // Canada
@@ -17,7 +17,7 @@ console.log(test); // Canada
 
 Get domain name by name of a country:
 ```JS
-var domains = require('domainName');
+var domains = require('domainname');
 
 var test = domains.domainOf('Spain');
 console.log(test); // .es
